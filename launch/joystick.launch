@@ -1,0 +1,7 @@
+<launch>
+
+   <node pkg="joystick_control" name="joystick_node" type="joystick_values.py" />
+
+   <node pkg="joystick_control" name="joystick_controller_node" type="RoboController.py" />
+
+</launch>
