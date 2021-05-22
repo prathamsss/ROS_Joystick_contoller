@@ -3,7 +3,7 @@
 This package could be used on any industry based robot having ROS.
 
 
-1. Jetson Nano is been used for this operation. 
+1. Jetson Nano is been used for this operation as MASTER device. 
 2. Arduino is used as SLAVE device for serial communication with Nano.
 3. L293d is used as motor driver and Wireless Joystick to control robot.
 4. Packages are been return in python and C++
