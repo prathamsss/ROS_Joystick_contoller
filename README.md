@@ -17,7 +17,7 @@ For using this project-
 2. Build your Motor driver and arduino connection.
 3. If you are using diffrent motor driver other than L293d, than write your functions for moving Fordward, backward, right, left, etc in arduino.
 4. Connect your arduino to your ROS device, change your port name in above RoboController file.
-5. Launch ROS file using  "roslaunch joystick_control joystick.py"
+5. Launch ROS file using  "roslaunch joystick_control joystick.launch"
 
 Enjoy!!
 
